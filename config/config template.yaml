@@ -1,0 +1,7 @@
+---
+deployment_endpoint: # e.g. https://myopenairessource.openai.azure.com/
+deployment_type: # e.g. "azure"
+chat_llm_model_name: # e.g. "gpt-4"
+chat_llm_deployment_name: # e.g. "gpt-4-turbo"
+temperature: 0
+top_p: 0.9
