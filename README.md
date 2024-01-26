@@ -4,8 +4,7 @@ This repo demonstrates how to use GPT-4 Turbo to optimize hyperparamter of tradi
 ## Getting started
 
 Copy config/config_template.yaml into config/config.yaml and set the variables with your own values before running the samples.
-Add your api key to ./.env
-APIKEY=...
+Add your api key to .env `APIKEY=...`
 
 ### Using a virtual environment
 
